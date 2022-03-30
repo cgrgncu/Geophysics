@@ -52,7 +52,8 @@
 
 ### 直流電阻法簡介
   + 發展歷史
-    + 讀文獻  
+    + 讀文獻 
+  + 岩石電阻率分布 
   + 找出好多名稱 原因
     + https://en.wikipedia.org/wiki/Electrical_resistivity_tomography
     + Direct Current Method (DC法) 直流電阻法
