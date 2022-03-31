@@ -70,6 +70,13 @@
     + 原始資料格式
     + 原始資料展示
     + 模型資料格式
+    + AIM4RES
+    + Respy
+    + pyGIMLi (Python Library for Inversion and Modelling in Geophysics)
+    + BERT (Boundless Electrical Resistivity Tomography)
+    + ResIPy (Resistivity and Induced Polarization with Python)
+    + pyres (Python wrapper for electrical resistivity modelling)
+    + SimPEG (Simulation and Parameter Estimation in Geophysics)
   + 野外實際演練
     + 模型資料展示 
   + 看案例
