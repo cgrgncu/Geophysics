@@ -5,6 +5,12 @@
 
 地球物理學與地質學相輔相成。 
 
+### 推薦教科書
+  + Telford, W. M., Telford, W. M., Geldart, L. P., & Sheriff, R. E. (1990). Applied geophysics. Cambridge university press.
+  + Reynolds, J. M. (2011). An introduction to applied and environmental geophysics. John Wiley & Sons.
+
+### 推薦期刊論文或技術文件
+  + Loke, M. H. (2004). Tutorial: 2-D and 3-D electrical imaging surveys.
 
 ### 地球物理探勘
   + 震波勘探方法(力學)
